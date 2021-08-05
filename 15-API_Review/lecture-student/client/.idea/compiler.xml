@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="m02d15-api-review-lecture-client" />
+        <module name="m02d14-serverside-apis-part2-exercise" />
+        <module name="m02d15-api-review-lecture-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="m02d12-http-web-services-POST-lecture-final" target="11" />
+      <module name="m02d14-serverside-apis-part2-exercise" target="11" />
+      <module name="m02d15-api-review-lecture-client" target="11" />
+      <module name="m02d15-api-review-lecture-server" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="m02d14-serverside-apis-part2-exercise" options="-parameters" />
+      <module name="m02d15-api-review-lecture-server" options="-parameters" />
+    </option>
+  </component>
+</project>

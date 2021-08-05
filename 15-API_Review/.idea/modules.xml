@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-project-starter/client/m02-api-capstone-client.iml" filepath="$PROJECT_DIR$/api-project-starter/client/m02-api-capstone-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-project-starter/server/m02-api-capstone-server.iml" filepath="$PROJECT_DIR$/api-project-starter/server/m02-api-capstone-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-student/client/m02d15-api-review-lecture-client.iml" filepath="$PROJECT_DIR$/lecture-student/client/m02d15-api-review-lecture-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-student/server/m02d15-api-review-lecture-server.iml" filepath="$PROJECT_DIR$/lecture-student/server/m02d15-api-review-lecture-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-final/server/m02d15-api-review-lecture-server-final.iml" filepath="$PROJECT_DIR$/lecture-final/server/m02d15-api-review-lecture-server-final.iml" />
+    </modules>
+  </component>
+</project>

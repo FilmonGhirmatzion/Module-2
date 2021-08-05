@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05dbb52c-e071-4655-9565-7c69898c8801" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uRhJFjk14B91ZJVbPgT3S9SsQS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../14_ServerSide_APIs_Part_2/exercise-student" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in m02d14-serverside-apis-part2-exercise">
+    <configuration name="AddressBookApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.AddressBookApp" />
+      <module name="m02d15-api-review-lecture-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddressBookApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.addressbook.AddressBookApplication" />
+      <module name="m02d15-api-review-lecture-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in m02d14-serverside-apis-part2-exercise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02d14-serverside-apis-part2-exercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactServicesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02d15-api-review-lecture-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.addressbook.ServiceTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.addressbook.ServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.addressbook.ServiceTest.ContactServicesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactServicesTest.get_all_contacts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02d15-api-review-lecture-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.addressbook.ServiceTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.addressbook.ServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.addressbook.ServiceTest.ContactServicesTest" />
+      <option name="METHOD_NAME" value="get_all_contacts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in m02d14-serverside-apis-part2-exercise" />
+        <item itemvalue="Application.AddressBookApp" />
+        <item itemvalue="Application.AddressBookApplication" />
+        <item itemvalue="JUnit.ContactServicesTest.get_all_contacts" />
+        <item itemvalue="JUnit.ContactServicesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05dbb52c-e071-4655-9565-7c69898c8801" name="Default Changelist" comment="" />
+      <created>1624634235205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624634235205</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../14_ServerSide_APIs_Part_2/exercise-student/src/main/java/com/techelevator/auctions/controller/AuctionController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

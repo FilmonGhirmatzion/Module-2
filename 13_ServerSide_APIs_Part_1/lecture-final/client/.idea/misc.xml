@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../../14_ServerSide_APIs_Part_2/lecture-student/client/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../14_ServerSide_APIs_Part_2/exercise-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../team1-java-blue-week06-pair-exercises/09_Capstone/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

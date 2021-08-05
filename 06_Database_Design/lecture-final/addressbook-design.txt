@@ -1,0 +1,36 @@
+contact 
+    id
+    first_name
+    last_name
+
+address
+    id
+    line_one
+    line_two
+    postal_code
+    city 
+    district
+    country
+    type
+    type_description
+
+contact_address
+    contact_id
+    address_id
+
+phone
+    id
+    phone_number
+    type
+    type_description
+
+contact_phone
+    phone_id
+    contact_id
+
+email
+    id
+    contact_id
+    email_address
+    type
+    type_description

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="m2-capstone-excelsior-venues" />
+        <module name="m02d14-serverside-apis-part2-exercise" />
+        <module name="m02d14-serverside-apis-part2-lecture-client" />
+        <module name="m02d13-serverside-apis-part1-lecture-client-final" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="m02d13-serverside-apis-part1-instructor" target="11" />
+      <module name="m02d13-serverside-apis-part1-lecture-client-final" target="11" />
+      <module name="m02d13-serverside-apis-part1-lecture-server-final" target="11" />
+      <module name="m02d14-serverside-apis-part2-exercise" target="11" />
+      <module name="m02d14-serverside-apis-part2-lecture-client" target="11" />
+      <module name="m02d14-serverside-apis-part2-lecture-client-final" target="11" />
+      <module name="m02d14-serverside-apis-part2-lecture-server" target="11" />
+      <module name="m02d15-api-review-lecture-client-final" target="11" />
+      <module name="m2-capstone-excelsior-venues" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="m02d13-serverside-apis-part1-instructor" options="-parameters" />
+      <module name="m02d13-serverside-apis-part1-lecture-server-final" options="-parameters" />
+      <module name="m02d14-serverside-apis-part2-exercise" options="-parameters" />
+      <module name="m02d14-serverside-apis-part2-lecture-server" options="-parameters" />
+    </option>
+  </component>
+</project>

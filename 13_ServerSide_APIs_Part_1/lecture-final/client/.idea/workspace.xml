@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50bfc435-4176-4300-9ed2-951ff820b78e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1uLmrL5KmZVAWZxjUJHMrpx5jFf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../15-API_Review/lecture-student/client" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager" selected="Application.HotelReservationsApplication">
+    <configuration name="ExcelsiorCLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.ExcelsiorCLI" />
+      <module name="m2-capstone-excelsior-venues" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelReservationsApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.reservations.HotelReservationsApplication" />
+      <module name="m02d14-serverside-apis-part2-lecture-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.reservations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelReservationsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.reservations.HotelReservationsApplication" />
+      <module name="m02d13-serverside-apis-part1-lecture-server-final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.reservations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in m02d13-serverside-apis-part1-lecture-server-final" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02d13-serverside-apis-part1-lecture-server-final" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in m02d14-serverside-apis-part2-exercise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02d14-serverside-apis-part2-exercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HotelReservationsApplication" />
+        <item itemvalue="JUnit.All in m02d14-serverside-apis-part2-exercise" />
+        <item itemvalue="JUnit.All in m02d13-serverside-apis-part1-lecture-server-final" />
+        <item itemvalue="Application.ExcelsiorCLI" />
+        <item itemvalue="Application.HotelReservationsApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50bfc435-4176-4300-9ed2-951ff820b78e" name="Default Changelist" comment="" />
+      <created>1624453441294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624453441294</updated>
+    </task>
+    <servers />
+  </component>
+</project>

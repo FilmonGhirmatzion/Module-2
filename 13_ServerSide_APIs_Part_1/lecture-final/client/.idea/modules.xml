@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/m02d13-serverside-apis-part1-lecture-client-final.iml" filepath="$PROJECT_DIR$/m02d13-serverside-apis-part1-lecture-client-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../14_ServerSide_APIs_Part_2/exercise-student/m02d14-serverside-apis-part2-exercise.iml" filepath="$PROJECT_DIR$/../../../14_ServerSide_APIs_Part_2/exercise-student/m02d14-serverside-apis-part2-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../14_ServerSide_APIs_Part_2/lecture-student/client/m02d14-serverside-apis-part2-lecture-client.iml" filepath="$PROJECT_DIR$/../../../14_ServerSide_APIs_Part_2/lecture-student/client/m02d14-serverside-apis-part2-lecture-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../team1-java-blue-week06-pair-exercises/09_Capstone/m2-capstone-excelsior-venues.iml" filepath="$PROJECT_DIR$/../../../../../team1-java-blue-week06-pair-exercises/09_Capstone/m2-capstone-excelsior-venues.iml" />
+    </modules>
+  </component>
+</project>
